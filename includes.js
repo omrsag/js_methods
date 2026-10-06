@@ -16,3 +16,9 @@ const email = "omar@gmail.com";
 if (!email.includes("@")) {
     console.log("Invalid email");
 }
+
+
+
+
+
+// return boolean

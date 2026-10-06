@@ -20,7 +20,11 @@ const names = ["omar", "ali", "ahmad"];
 
 const upperNames = names.map(name => name.toUpperCase());
 
-console.log(upperNames);
+console.log(upperNames); // [ 'OMAR', 'ALI', 'AHMAD' ]
 
-//
 
+
+
+
+
+// return array
